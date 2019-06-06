@@ -87,7 +87,7 @@
       </plugin>
 	    	    
 
-
+<!--
 <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>rpm-maven-plugin</artifactId>
@@ -148,6 +148,7 @@
         </mappings>
     </configuration>
 </plugin>
+-->
 
 
     </plugins>
